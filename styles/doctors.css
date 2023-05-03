@@ -4,17 +4,23 @@
 
 .nav-under:hover {
     border-bottom: 3px solid rgb(226, 159, 211);
-    
+
 }
-.phone-number, .email-address, .login {
+
+.phone-number,
+.email-address,
+.login {
     text-decoration: none;
     color: brown;
 }
 
-.phone-number:hover, .email-address:hover, .login:hover{
+.phone-number:hover,
+.email-address:hover,
+.login:hover {
 
     border-bottom: 3px solid burlywood;
 }
+
 header {
     background-image: url("../images/doctors-img.webp");
     background-size: cover;
